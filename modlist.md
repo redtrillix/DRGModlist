@@ -11,26 +11,26 @@
 - [x] [40 Nitra Resupply Pods](https://mod.io/g/drg/m/40-nitra-resupply-pods)
 - [x] [Karl Class Season 04 (All Classes + U37 Weapons)](https://mod.io/g/drg/m/karl-class)
 - [x] [Dancer](https://mod.io/g/drg/m/dancer)
+- [x] [Smoke Flares](https://mod.io/g/drg/m/smoke-flares)
+- [x] [Brighter Objects](https://mod.io/g/drg/m/brighter-objects-add-on)
+- [x] [Custom Killfeed](https://mod.io/g/drg/m/custom-killfeed)
+- [x] [Damage Text](https://mod.io/g/drg/m/damage-text)
+- [x] [More Flares](https://mod.io/g/drg/m/more-flares)
 
 ## Disabled
 
 - [ ] [Platform Placement Preview](https://mod.io/g/drg/m/platform-placement-preview)
 - [x] [No Friendly Fire](https://mod.io/g/drg/m/no-friendly-fire)
-- [x] [More Flares](https://mod.io/g/drg/m/more-flares)
-- [x] [(?) More Players Balanced](https://mod.io/g/drg/m/more-players-balanced)
+- [ ] [(?) More Players Balanced](https://mod.io/g/drg/m/more-players-balanced)
 - [ ] [(?) Biome Bugs](https://mod.io/g/drg/m/biomebugs)
 - [ ] [(?) Boss HP](https://mod.io/g/drg/m/boss-hp-bar-for-big-enemies)
-- [x] [Smoke Flares](https://mod.io/g/drg/m/smoke-flares)
-- [x] [Brighter Objects](https://mod.io/g/drg/m/brighter-objects-add-on)
-- [x] [Custom Killfeed](https://mod.io/g/drg/m/custom-killfeed)
-- [ ] [Live Mission Stat Tracker](https://mod.io/g/drg/m/live-mission-stat-tracker)
-- [ ] [Weapon Heat Crosshair](https://mod.io/g/drg/m/weapon-heat-crosshair)
-- [x] [Damage Text](https://mod.io/g/drg/m/damage-text)
+- [ ] [(?) Live Mission Stat Tracker](https://mod.io/g/drg/m/live-mission-stat-tracker)
+- [ ] [(?) Weapon Heat Crosshair](https://mod.io/g/drg/m/weapon-heat-crosshair)
 - [ ] [(?) Cosmetic Restriction Remover](https://https://mod.io/g/drg/m/cosmetic-restriction-remover)
 
 ---
 
-# Key Guide
+### Key Guide
 
 - [x] = Working
 - [ ] = Not working
