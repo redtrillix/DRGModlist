@@ -1,1 +1,22 @@
-
+- [x] Combined Resources
+- [x] 5x Flashlight Range
+- [x] Profanity Booster
+- [x] James May's Cheesy Platform Gun
+- [x] Brighter Objects
+- [x] Damage Text
+- [ ] Platform Placement Preview
+- [x] 40 Nitra Resupply Pods
+- [x] No Friendly Fire
+- [x] More Flares
+- [ ] (?) Karl Class Season 04 (All Classes + U37 Weapons)
+- [x] More Players Balanced
+- [x] Dancer
+- [ ] (?) Biome Bugs
+- [ ] (?) Boss HP
+- [x] Smoke Flares
+- [x] Brighter Objects
+- [x] Custom Killfeed
+- [ ] Live Mission Stat Tracker
+- [ ] Weapon Heat Crosshair
+- [x] Damage Text
+- [ ] Cosmetic Restriction Remover
