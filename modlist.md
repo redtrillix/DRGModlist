@@ -1,18 +1,18 @@
-- [x] Combined Resources
-- [x] 5x Flashlight Range
-- [x] Profanity Booster
-- [x] James May's Cheesy Platform Gun
-- [x] Brighter Objects
-- [x] Damage Text
-- [ ] Platform Placement Preview
-- [x] 40 Nitra Resupply Pods
-- [x] No Friendly Fire
-- [x] More Flares
-- [ ] (?) Karl Class Season 04 (All Classes + U37 Weapons)
-- [x] More Players Balanced
-- [x] Dancer
-- [ ] (?) Biome Bugs
-- [ ] (?) Boss HP
+- [x] [Combined Resources](https://mod.io/g/drg/m/combined-resources)
+- [x] [5x Flashlight Range](https://mod.io/g/drg/m/no-more-dollar-store-flashlights-5x)
+- [x] [Profanity Booster](https://mod.io/g/drg/m/profanity-booster)
+- [x] [James May's Cheesy Platform Gun](https://mod.io/g/drg/m/james-mays-cheesy-platform-gun-updated-for-137)
+- [x] [Brighter Objects](https://mod.io/g/drg/m/brighter-objects)
+- [x] [Damage Text](https://mod.io/g/drg/m/damage-text)
+- [ ] [Platform Placement Preview](https://mod.io/g/drg/m/platform-placement-preview)
+- [x] [40 Nitra Resupply Pods](https://mod.io/g/drg/m/40-nitra-resupply-pods)
+- [x] [No Friendly Fire](https://mod.io/g/drg/m/no-friendly-fire)
+- [x] [More Flares](https://mod.io/g/drg/m/more-flares)
+- [x] [Karl Class Season 04 (All Classes + U37 Weapons)](https://mod.io/g/drg/m/karl-class)
+- [x] [(?) More Players Balanced](https://mod.io/g/drg/m/more-players-balanced)
+- [x] [Dancer](https://mod.io/g/drg/m/dancer)
+- [ ] [(?) Biome Bugs](https://mod.io/g/drg/m/biomebugs)
+- [ ] [(?) Boss HP](https://mod.io/g/drg/m/boss-hp-bar-for-big-enemies)
 - [x] Smoke Flares
 - [x] Brighter Objects
 - [x] Custom Killfeed
@@ -20,3 +20,9 @@
 - [ ] Weapon Heat Crosshair
 - [x] Damage Text
 - [ ] Cosmetic Restriction Remover
+
+---
+### Key Guide
+- [x] = Working
+- [ ] = Not working
+- [ ] (?) = Untested
